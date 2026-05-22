@@ -1,6 +1,6 @@
 {
   "name": "gpt-image",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "RunAPI GPT Image skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
   "skills": [
     {

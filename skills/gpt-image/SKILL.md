@@ -4,6 +4,17 @@ description: GPT Image API skill for RunAPI. Use when the user asks for gpt imag
 documentation: https://runapi.ai/models/gpt-image
 provider_page: https://runapi.ai/providers/openai
 catalog: https://runapi.ai/models
+metadata:
+  openclaw:
+    homepage: https://runapi.ai/models/gpt-image
+    primaryEnv: RUNAPI_API_KEY
+    requires:
+      env:
+      - RUNAPI_API_KEY
+    envVars:
+    - name: RUNAPI_API_KEY
+      required: true
+      description: RunAPI API key from https://runapi.ai/api_keys.
 ---
 
 # GPT Image API Skill for RunAPI
