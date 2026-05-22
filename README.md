@@ -9,12 +9,17 @@
 </p>
 
 <p align="center">
-  <a href="https://runapi.ai/models/gpt-image.md"><strong>Model Reference</strong></a> · <a href="https://skills.sh/runapi-ai/gpt-image"><strong>Install Skill</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/gpt-image-sdk"><strong>SDK</strong></a>
+  <a href="https://runapi.ai/models/gpt-image"><strong>Model Reference</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/gpt-image-sdk"><strong>SDK</strong></a>
 </p>
 
 <div align="center">
 
-[![skills.sh](https://skills.sh/b/runapi-ai/gpt-image)](https://skills.sh/runapi-ai/gpt-image)
+[![skills.sh](https://www.skills.sh/b/runapi-ai/gpt-image)](https://www.skills.sh/runapi-ai/gpt-image/gpt-image)
+[![ClawHub](https://img.shields.io/badge/ClawHub-runapi--gpt--image-111827)](https://clawhub.ai/runapi-ai/runapi-gpt-image)
+[![Model Reference](https://img.shields.io/badge/Model%20Reference-runapi.ai-0f766e)](https://runapi.ai/models/gpt-image)
+[![RunAPI CLI](https://img.shields.io/badge/RunAPI-CLI-111827)](https://github.com/runapi-ai/cli)
+[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-skills.sh-2563eb)](https://www.skills.sh/runapi-ai)
+[![License](https://img.shields.io/github/license/runapi-ai/gpt-image)](https://github.com/runapi-ai/gpt-image/blob/main/LICENSE)
 
 </div>
 <br/>
